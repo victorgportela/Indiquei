@@ -1,7 +1,7 @@
 <template>
-  <HelloWorld />
+  Opa
 </template>
 
 <script setup>
-  //
+
 </script>
